@@ -1,7 +1,7 @@
 ## I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models
 <a href='https://i2v-adapter.github.io'><img src='https://img.shields.io/badge/Project-Page-green'></a> 
 <a href='https://arxiv.org/abs/2312.16693'><img src='https://img.shields.io/badge/Technique-Report-red'></a> 
-[![GitHub](https://img.shields.io/github/stars/I2V-Adapter/I2V-Adapter?style=social)](https://github.com/I2V-Adapter/I2V-Adapter)
+[![GitHub](https://img.shields.io/github/stars/I2V-Adapter/I2V-Adapter-repo?style=social)](https://github.com/I2V-Adapter/I2V-Adapter)
 
 <p align="left">
   <img src="assets/teaser_1227_v2.png">
@@ -15,7 +15,7 @@ This is a PyTorch/GPU implementation of the paper [I2V-Adapter: A General Image-
 
 ## 📝 Changelog
 - __[2023.12.27]__: Release [I2V-Adapter](https://arxiv.org/abs/2312.16693) Technical Report!
-- __[2023.12.30]__: Update repo [I2V-Adapter](https://github.com/I2V-Adapter/I2V-Adapter)
+- __[2023.12.30]__: Update repo [I2V-Adapter](https://github.com/I2V-Adapter/I2V-Adapter-repo)
 
 ## BibTeX
 If this repo is useful to you, please cite the corresponding technical paper.
