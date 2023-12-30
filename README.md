@@ -13,7 +13,7 @@ This is a PyTorch/GPU implementation of the paper [I2V-Adapter: A General Image-
 
 ✨ Code and pretrained models are coming soon, please stay tuned ✨
 
-## 📝 Changelog
+<!-- ## 📝 Changelog
 - __[2023.12.27]__: Release [I2V-Adapter](https://arxiv.org/abs/2312.16693) Technical Report!
 - __[2023.12.30]__: Update repo [I2V-Adapter](https://github.com/I2V-Adapter/I2V-Adapter-repo)
 
@@ -27,7 +27,7 @@ If this repo is useful to you, please cite the corresponding technical paper.
       journal={arXiv preprint arXiv:2312.16693},
       year={2023},
 }
-```
+``` -->
 
 ## 🤗 Acknowledgements
 Codebase builds on [Diffusers](https://github.com/huggingface/diffusers) and [AnimateDiff](https://github.com/guoyww/AnimateDiff).
