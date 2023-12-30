@@ -16,7 +16,6 @@ This is a PyTorch/GPU implementation of the paper [I2V-Adapter: A General Image-
 ## 📝 Changelog
 - __[2023.12.27]__: Release [I2V-Adapter](https://arxiv.org/abs/2312.16693) Technical Report!
 - __[2023.12.30]__: Update repo [I2V-Adapter](https://github.com/I2V-Adapter/I2V-Adapter)
-<br>
 
 ## BibTeX
 If this repo is useful to you, please cite the corresponding technical paper.
@@ -24,7 +23,7 @@ If this repo is useful to you, please cite the corresponding technical paper.
 ```bibtex
 @article{guo2023i2vadapter,
       title={I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models}, 
-      author={Xun Guo and Mingwu Zheng and Liang Hou and Yuan Gao and Yufan Deng and Chongyang Ma and Weiming Hu and Zhengjun Zha and Haibin    Huang and Pengfei Wan and Di Zhang},
+      author={Xun Guo and Mingwu Zheng and Liang Hou and Yuan Gao and Yufan Deng and Chongyang Ma and Weiming Hu and Zhengjun Zha and Haibin Huang and Pengfei Wan and Di Zhang},
       journal={arXiv preprint arXiv:2312.16693},
       year={2023},
 }
